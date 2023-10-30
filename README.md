@@ -1,5 +1,5 @@
 ### Hi, I'm Dante, an applied mathematics grad student @ UCSC
--  Currently working on using DeepXDE to numerically simulate the propulsion of a ciliated squirmer.
--  Ask me about Chaotic Attractors :)
+-  Currently using PADDI (a Parallelized Fortran DNS script) to simulate Stratified Turbulence in rotataing stellar fluids with stochastic forcing. 
+-  Ask me about Gaussian Processes :)
 -  How to reach me: dbuhl8@gmail.com
 -  Pronouns: he/him
